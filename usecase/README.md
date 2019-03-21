@@ -1,29 +1,36 @@
-# Les diagrammes des Cas d'Utilisation
-This a detailed description of the UseCase diagrams.
+# Les Cas d'Utilisation
+On va identifier la liste des cas d'utlistations de notre système.
 
-
-- [Les diagrammes des Cas d'Utilisation](#les-diagrammes-des-cas-dutilisation)
+- [Les Cas d'Utilisation](#les-cas-dutilisation)
 - [Description des Acteurs du Système](#description-des-acteurs-du-syst%C3%A8me)
 - [Description des Cas d'Utilisation](#description-des-cas-dutilisation)
   - [Cas d'Utilisation Exploitant](#cas-dutilisation-exploitant)
-  - [Cas d'Utilisation Employee](#cas-dutilisation-employee)
-  - [Cas d'Utilisation Employee](#cas-dutilisation-employee-1)
+  - [Cas d'Utilisation Employé](#cas-dutilisation-employ%C3%A9)
+  - [Cas d'Utilisation Système de Notifications](#cas-dutilisation-syst%C3%A8me-de-notifications)
 
 # Description des Acteurs du Système
 - **Exploitant**: une petite description de l'acteur "Exploitant"
-- **Employee**: une petite description de l'acteur "Employé"
+- **Employe**: une petite description de l'acteur "Employé"
 - **Systeme de Notification**: une petite description de l'acteur "Système de Notification"
 
 # Description des Cas d'Utilisation
-Dans cette partie on va identifier les cas d'utlisations 
+Dans cette partie on va identifier les cas d'utlisations.
 
 ## Cas d'Utilisation Exploitant
-![usercase_exploitant.png](images/usercase_exploitant.png)
+![](images/usercase_exploitant.png)
 
-## Cas d'Utilisation Employee
-![usercase_exploitant.png](images/usecase_employe.png)
+Cas d'utlisation de l'acteur Exploitant.
 
-## Cas d'Utilisation Employee
-![usercase_exploitant.png](images/usecase_systeme_notifications.png)
+## Cas d'Utilisation Employé
+![](images/usecase_employe.png)
+
+Cas d'utlisation de l'acteur Employé.
+
+
+## Cas d'Utilisation Système de Notifications
+![](images/usecase_systeme_notifications.png)
+
+Cas d'utlisation de l'acteur Système de Notifications.
+
 
 
